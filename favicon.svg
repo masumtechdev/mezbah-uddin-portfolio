@@ -1,0 +1,70 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 64 64"
+>
+  <defs>
+    <linearGradient
+      id="faviconGradient"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="1"
+    >
+      <stop
+        offset="0%"
+        stop-color="#78e8ce"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#c9ef63"
+      />
+    </linearGradient>
+  </defs>
+
+  <rect
+    width="64"
+    height="64"
+    rx="18"
+    fill="#062a2b"
+  />
+
+  <rect
+    x="6"
+    y="6"
+    width="52"
+    height="52"
+    rx="15"
+    fill="url(#faviconGradient)"
+  />
+
+  <path
+    d="M33 11L22 53"
+    fill="none"
+    stroke="#062a2b"
+    stroke-width="2"
+    opacity="0.45"
+  />
+
+  <text
+    x="13"
+    y="31"
+    fill="#062a2b"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="20"
+    font-weight="800"
+  >
+    M
+  </text>
+
+  <text
+    x="35"
+    y="50"
+    fill="#062a2b"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="20"
+    font-weight="800"
+  >
+    U
+  </text>
+</svg>
